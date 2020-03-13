@@ -1,0 +1,30 @@
+.button {
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+  border-radius: 15px;
+  font-size: 25px;
+}
+
+.button:hover {
+  background-color: lightGreen;
+}
+
+.memory {
+  position: fixed;
+  top: 160px;
+  left: 550px;
+  border: 2px solid black;
+  border-radius: 15px;
+  padding: 30px;
+}
+
+.restart {
+  width: 100px;
+  height: 40px;
+  border: 2px solid black;
+  border-radius: 15px;
+  background-color: lightGreen;
+  margin-left: 320px;
+  margin-top: 20px;
+}
